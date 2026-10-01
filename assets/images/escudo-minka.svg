@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+  <title id="title">Escudo del Colegio MINKA</title>
+  <desc id="desc">Emblema circular marfil y marrón, con un cóndor, laureles, un libro y un escudo azul.</desc>
+  <!-- Bloque: anillos institucionales y nombre del colegio. -->
+  <defs>
+    <path id="name" d="M 33,122 A 87,87 0 1,1 207,122"/>
+    <path id="motto" d="M 34,150 A 93,93 0 0,0 206,150"/>
+  </defs>
+  <circle cx="120" cy="120" r="115" fill="#fff9ed" stroke="#4a2e22" stroke-width="8"/>
+  <circle cx="120" cy="120" r="84" fill="#fffdf6" stroke="#c96836" stroke-width="2"/>
+  <text fill="#4a2e22" font-family="Georgia,serif" font-size="22" font-weight="700" letter-spacing="4"><textPath href="#name" startOffset="50%" text-anchor="middle">COLEGIO MINKA</textPath></text>
+  <text fill="#4a2e22" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2"><textPath href="#motto" startOffset="50%" text-anchor="middle">APRENDEMOS JUNTOS</textPath></text>
+  <!-- Bloque: cóndor estilizado, símbolo de libertad y crecimiento. -->
+  <path d="M120 88 C105 65 79 58 53 72 L66 83 57 91 82 87 73 99 100 88 120 108 140 88 167 99 158 87 183 91 174 83 187 72 C161 58 135 65 120 88Z" fill="#4a2e22"/>
+  <path d="M114 82 Q110 64 121 56 Q132 55 135 65 L129 70 128 88Z" fill="#c96836"/>
+  <circle cx="126" cy="62" r="2" fill="#fff9ed"/>
+  <!-- Bloque: escudo, libro abierto y monograma M. -->
+  <path d="M82 104 Q120 116 158 104 L152 143 Q146 164 120 182 Q94 164 88 143Z" fill="#345e7b" stroke="#4a2e22" stroke-width="3"/>
+  <path d="M96 123 Q109 119 120 126 Q131 119 144 123 L142 146 Q131 142 120 149 Q109 142 98 146Z" fill="#fff9ed"/>
+  <path d="M120 126 V149" stroke="#c96836" stroke-width="2"/>
+  <text x="120" y="168" text-anchor="middle" font-family="Georgia,serif" font-size="21" font-weight="700" fill="#fff9ed">M</text>
+  <!-- Bloque: laureles simétricos. -->
+  <g fill="none" stroke="#8a8c63" stroke-width="3" stroke-linecap="round">
+    <path d="M103 185 Q58 170 58 115 M137 185 Q182 170 182 115"/>
+  </g>
+  <g fill="#8a8c63">
+    <path d="M61 137 Q42 128 48 115 Q62 120 61 137 M64 152 Q43 145 48 133 Q64 136 64 152 M72 167 Q51 163 53 149 Q70 151 72 167 M88 181 Q66 183 65 169 Q80 166 88 181 M59 132 Q58 114 72 111 Q74 125 59 132 M63 150 Q64 130 79 130 Q79 145 63 150 M74 166 Q76 148 91 149 Q90 162 74 166"/>
+    <path d="M179 137 Q198 128 192 115 Q178 120 179 137 M176 152 Q197 145 192 133 Q176 136 176 152 M168 167 Q189 163 187 149 Q170 151 168 167 M152 181 Q174 183 175 169 Q160 166 152 181 M181 132 Q182 114 168 111 Q166 125 181 132 M177 150 Q176 130 161 130 Q161 145 177 150 M166 166 Q164 148 149 149 Q150 162 166 166"/>
+  </g>
+  <circle cx="23" cy="125" r="4" fill="#c96836"/><circle cx="217" cy="125" r="4" fill="#c96836"/>
+</svg>

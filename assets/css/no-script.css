@@ -1,0 +1,9 @@
+/* BLOQUE · Navegación de respaldo cuando JavaScript está desactivado.
+   Esta hoja solo se carga desde el elemento noscript de cada página. */
+@media (max-width: 1020px) {
+  .site-header { position: relative; }
+  .header-inner { flex-wrap: wrap; padding-block: 18px; }
+  .menu-toggle { display: none; }
+  .main-nav { display: flex; position: static; flex-wrap: wrap; width: 100%; padding: 0; max-height: none; box-shadow: none; border: 0; }
+  .main-nav a { max-width: none; padding: 10px 12px; font-size: 12px; }
+}

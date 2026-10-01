@@ -1,0 +1,88 @@
+{
+  "checks": 1092,
+  "passed": 1092,
+  "failed": [],
+  "layoutFailures": [],
+  "errors": [],
+  "viewports": [
+    320,
+    390,
+    768,
+    1024,
+    1440
+  ],
+  "htmlPages": 19,
+  "finalChecks": [
+    {
+      "check": "Noticia cierra con Escape",
+      "passed": true
+    },
+    {
+      "check": "Botón de guía invoca impresión",
+      "passed": true
+    },
+    {
+      "check": "Guía oculta controles al imprimir",
+      "passed": true
+    },
+    {
+      "check": "Todas las imágenes de portada cargan",
+      "passed": true
+    },
+    {
+      "check": "CSS formateado conserva portada",
+      "passed": true
+    },
+    {
+      "check": "contacto.html sin desbordamiento final",
+      "passed": true
+    },
+    {
+      "check": "Teléfono acepta formato internacional",
+      "passed": true
+    },
+    {
+      "check": "minka-al-dia.html sin desbordamiento final",
+      "passed": true
+    },
+    {
+      "check": "Comprobación final sin errores JS",
+      "passed": true
+    }
+  ],
+  "keyboardVerification": "Escape verificado mediante keyDown y keyUp nativos con código 27.",
+  "homeImages": [
+    {
+      "src": "assets/images/escudo-minka.svg",
+      "loaded": true
+    },
+    {
+      "src": "assets/images/equipo.jpg",
+      "loaded": true
+    },
+    {
+      "src": "assets/images/metodologia.jpg",
+      "loaded": true
+    },
+    {
+      "src": "assets/images/estudiantes.jpg",
+      "loaded": true
+    },
+    {
+      "src": "assets/images/ciencia.jpg",
+      "loaded": true
+    },
+    {
+      "src": "assets/images/cultura.jpg",
+      "loaded": true
+    },
+    {
+      "src": "assets/images/orientacion.jpg",
+      "loaded": true
+    },
+    {
+      "src": "assets/images/escudo-minka.svg",
+      "loaded": true
+    }
+  ]
+}

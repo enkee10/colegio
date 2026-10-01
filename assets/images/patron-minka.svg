@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <!-- Bloque: respaldo gráfico local cuando una fotografía no está disponible. -->
+  <rect width="800" height="600" fill="#ede5d6"/>
+  <circle cx="665" cy="100" r="155" fill="#d8e4eb"/>
+  <path d="M0 470 Q200 210 400 470 T800 470 V600 H0Z" fill="#d5b99d"/>
+  <circle cx="400" cy="285" r="115" fill="#fff9ed"/>
+  <path d="M335 275 Q365 255 400 277 Q435 255 465 275 V345 Q435 327 400 350 Q365 327 335 345Z" fill="#345e7b"/>
+  <path d="M400 277 V350" stroke="#fff9ed" stroke-width="4"/>
+  <text x="400" y="435" text-anchor="middle" fill="#4a2e22" font-family="Georgia,serif" font-size="36">Aprendemos juntos.</text>
+</svg>
